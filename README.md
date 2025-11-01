@@ -14,11 +14,3 @@ Java (JDK 1.8)
   
   4.Count multiples of numbers (1 to 9) in a list
   
- ## How to Run
- 
-Open terminal and navigate to the file location
-
-Compile using calculator.java
-
-Run the program
-(Repeat for other files)
