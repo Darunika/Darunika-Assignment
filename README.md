@@ -17,6 +17,8 @@ Java (JDK 1.8)
  ## How to Run
  
 Open terminal and navigate to the file location
+
 Compile using calculator.java
+
 Run the program
 (Repeat for other files)
